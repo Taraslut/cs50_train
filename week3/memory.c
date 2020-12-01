@@ -36,3 +36,6 @@ int main(void)
     printf("Free memory\n");
     return 0;
 }
+
+
+(mem++)
