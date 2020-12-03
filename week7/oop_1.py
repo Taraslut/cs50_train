@@ -1,6 +1,8 @@
 # constructor, destructor
 
 class Person:
+    
+    sex = 'mail'
     def __init__(self, name="Roman", age=12):
         print(f'{self.__class__.__name__} Person')
         self.name = name
